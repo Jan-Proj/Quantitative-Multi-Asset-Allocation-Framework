@@ -8,7 +8,7 @@ The goal of this framework is to backtest whether a rule-based momentum approach
 ## 🛠 Key Features
 * **Data Retrieval:** Automated fetching of financial data via `yfinance`.
 * **Strategy Implementation:** Momentum-based sector rotation logic.
-* **Risk Analysis:** Calculation of Risk via Drawdowns.
+* **Risk Analysis:** Calculation of risk via Drawdowns.
 * **Visualization:** Performance curves and heatmaps using `seaborn` and `matplotlib`.
 
 ## 💻 Tech Stack
